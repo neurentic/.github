@@ -8,7 +8,7 @@ Our goal is to bring AI and new technologies closer to the sectors that need the
 
 ## ✨ Some of our products
 
-- [**Pacademy**](https://pacademy.es/) — Intelligent platform for academies management.
+- [**AcadeSmart**](https://acadesmart.com/) — Intelligent platform for academies management.
 
 ## 📍 Location
 
