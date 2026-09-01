@@ -1,4 +1,4 @@
-<img width="3187" height="512" alt="logo-light" src="https://github.com/user-attachments/assets/43091c4d-a390-4828-a792-25bba8100ad3" />
+<img width="3041" height="512" alt="readme-logo0" src="https://github.com/user-attachments/assets/f4a71857-8d37-4710-922f-559d37777c35" />
 
 ## 🏢 Who we are
 
