@@ -2,11 +2,11 @@
 
 ## 🏢 Who we are
 
-At Neurentic, we build intelligent software focused on improving business or institutional performance, also creating thoughtful digital experiences. Currently, we are focused on the academic world, developing intelligent management software for academic institutions.
+At Neurentic, we build intelligent software focused on improving the academic world, developing innovative solutions for all types of institutions.
 
-Our goal is to bring AI and new technologies closer to the sectors that need them.
+Our goal is to bring AI and new technologies closer to one of the most important sectors of society.
 
-## ✨ Some of our products
+## 💿 Some of our products
 
 - [**AcadeSmart**](https://acadesmart.com/) — Intelligent platform for academies management.
 
